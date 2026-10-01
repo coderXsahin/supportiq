@@ -722,18 +722,6 @@ function App() {
           />
 
         </div>
-          <div className="ticket-search">
-
-  <input
-    type="text"
-    placeholder="Search tickets by ID, title, category, priority or status..."
-    value={searchTerm}
-    onChange={(event) =>
-      setSearchTerm(event.target.value)
-    }
-  />
-
-</div>
           <div className="tickets-card">
 
             <div className="tickets-table-wrapper">
