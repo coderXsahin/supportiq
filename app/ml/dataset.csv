@@ -1,0 +1,171 @@
+text,category
+Unable to connect to the office WiFi,Network
+VPN connection keeps dropping,Network
+Network latency is very high,Network
+Internet connection is unavailable,Network
+Cannot access internal server,Network
+PostgreSQL database connection failed,Database
+Database server is not responding,Database
+SQL query is returning connection timeout,Database
+Database is running out of storage,Database
+Application cannot connect to MySQL,Database
+Application crashes when starting,Application
+Payment service is returning errors,Application
+Web application is showing HTTP 500 errors,Application
+Application response time is very slow,Application
+API service is not responding,Application
+Suspicious login detected on account,Security
+Possible unauthorized access to system,Security
+Antivirus detected malicious activity,Security
+User account may have been compromised,Security
+Security alert triggered on workstation,Security
+Laptop screen is not working,Hardware
+Keyboard is not responding,Hardware
+Computer is overheating,Hardware
+Printer is not working,Hardware
+Hard drive is showing errors,Hardware
+User cannot login to the system,Access/Login
+Password reset is required,Access/Login
+Account is locked after multiple attempts,Access/Login
+User does not have permission to access application,Access/Login
+Unable to authenticate with corporate account,Access/Login
+Office WiFi is not working,Network
+Router is not providing internet connectivity,Network
+Employees are unable to access the network,Network
+Corporate network is down,Network
+Network connectivity is intermittent,Network
+Production database is down,Database
+Production database connection is unavailable,Database
+All users cannot connect to the production database,Database
+Database server is completely down,Database
+PostgreSQL production server is unavailable,Database
+User cannot log into the corporate portal,Access/Login
+Password reset is not working for employee account,Access/Login
+Employee account is locked after multiple login attempts,Access/Login
+Unable to authenticate through the company login page,Access/Login
+User forgot password and cannot access workstation,Access/Login
+VPN credentials are being rejected during authentication,Access/Login
+Single sign-on login fails for several employees,Access/Login
+New employee cannot access assigned account,Access/Login
+Login page returns invalid credentials error,Access/Login
+User cannot access account after password change,Access/Login
+Authentication service rejects valid employee credentials,Access/Login
+Employee is unable to sign in to internal applications,Access/Login
+Account access was disabled unexpectedly,Access/Login
+User receives authentication failure when signing in,Access/Login
+Corporate portal keeps redirecting back to login,Access/Login
+Unable to access system because account is locked,Access/Login
+Password reset email is not being received,Access/Login
+Employee cannot authenticate using company credentials,Access/Login
+Login credentials work on one system but fail on another,Access/Login
+User needs access restored after account lockout,Access/Login
+Application crashes immediately after startup,Application
+Internal application is returning server errors,Application
+Web application is unavailable to users,Application
+Application response time has become very slow,Application
+Recent deployment caused application errors,Application
+Users receive an error when submitting forms,Application
+Application stops responding during normal usage,Application
+API request to the application is failing,Application
+Application dashboard is not loading correctly,Application
+Service fails whenever users upload a document,Application
+Application throws an exception during checkout,Application
+Production application is showing HTTP 500 errors,Application
+Application functionality stopped after configuration change,Application
+Users report that the application freezes frequently,Application
+Background application service is not running,Application
+Application deployment did not start successfully,Application
+Application returns unexpected errors for valid requests,Application
+User interface fails to load after latest release,Application
+Application process keeps restarting in production,Application
+Business application is unavailable after maintenance,Application
+Production database connection is failing,Database
+Users cannot connect to the production database,Database
+Database server is refusing application connections,Database
+SQL queries are taking much longer than normal,Database
+Database connection pool is exhausted,Database
+Production database is reporting connection timeout errors,Database
+Application cannot establish a connection to PostgreSQL,Database
+Database server is running out of storage,Database
+SQL query execution has become extremely slow,Database
+Database service is unavailable to applications,Database
+Database authentication is failing for application users,Database
+Connection timeout occurs when accessing database,Database
+Database server CPU usage is extremely high,Database
+Application reports database connection failure,Database
+Database connections are dropping intermittently,Database
+Production database is not responding to requests,Database
+Database table query returns timeout error,Database
+Database service failed after server restart,Database
+Multiple applications cannot reach the database,Database
+Database connection errors started after deployment,Database
+Laptop will not power on,Hardware
+Employee workstation is overheating,Hardware
+Desktop computer is making unusual noises,Hardware
+Monitor is not displaying anything,Hardware
+Keyboard is not responding correctly,Hardware
+Company laptop battery is not charging,Hardware
+Printer hardware is not functioning,Hardware
+Workstation shuts down unexpectedly,Hardware
+External monitor is not detected,Hardware
+Laptop fan is running continuously,Hardware
+Computer has a faulty hard drive,Hardware
+Mouse is not working on the workstation,Hardware
+Employee reports hardware failure on laptop,Hardware
+Docking station is not detecting connected devices,Hardware
+Workstation becomes unusable after startup,Hardware
+Printer displays a hardware error,Hardware
+Laptop screen is flickering intermittently,Hardware
+Desktop cannot detect installed memory,Hardware
+Computer randomly restarts during operation,Hardware
+Network adapter hardware is not detected,Hardware
+Office network connection is down,Network
+Users cannot connect to the corporate network,Network
+VPN connection keeps disconnecting,Network
+Internet connectivity is unavailable in the office,Network
+Network latency is extremely high,Network
+Employees cannot reach internal servers,Network
+WiFi connection is unstable for users,Network
+Router is not responding to network requests,Network
+DNS resolution is failing across the network,Network
+Network connection times out frequently,Network
+Remote users cannot connect through VPN,Network
+Corporate network is experiencing packet loss,Network
+Network service became unavailable after maintenance,Network
+Office WiFi stopped working for multiple users,Network
+Users cannot access websites through company network,Network
+Network gateway is unreachable,Network
+Connectivity between offices has failed,Network
+Network performance is severely degraded,Network
+VPN server is unreachable from employee devices,Network
+Internal network connection is intermittently failing,Network
+Security alert detected suspicious login activity,Security
+Possible unauthorized access was detected,Security
+Employee account shows suspicious authentication attempts,Security
+Endpoint security software detected malware,Security
+Security system reported a possible data breach,Security
+Multiple failed logins were detected from an unknown location,Security
+Suspicious email attachment was reported,Security
+Firewall detected unusual network traffic,Security
+User account may have been compromised,Security
+Security monitoring system generated a critical alert,Security
+Possible phishing attempt reported by employee,Security
+Malicious software was detected on workstation,Security
+Unauthorized access attempt was blocked,Security
+Security logs show unusual activity,Security
+Potential credential theft was detected,Security
+Endpoint protection service reported a threat,Security
+Unknown process triggered a security alert,Security
+Employee received suspicious authentication notification,Security
+Firewall detected repeated connection attempts,Security
+Security incident requires investigation,Security
+Email service is unavailable,Application
+Corporate email server is down,Application
+Employees cannot send or receive emails,Application
+Company email system is not working,Application
+Email application is unavailable for all employees,Application
+Mail server is experiencing an outage,Application
+Corporate mail service has stopped working,Application
+Users cannot access the company email service,Application
+Email service is failing for multiple employees,Application
+The company email system is down,Application
