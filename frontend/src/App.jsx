@@ -508,7 +508,7 @@ function App() {
               </span>
 
               <strong className="summary-value">
-                {summary?.high_priority ?? 0}
+                {summary?.high_tickets ?? 0}
               </strong>
 
             </div>
@@ -521,7 +521,7 @@ function App() {
               </span>
 
               <strong className="summary-value">
-                {summary?.critical_priority ?? 0}
+                {summary?.critical_tickets ?? 0}
               </strong>
 
             </div>
