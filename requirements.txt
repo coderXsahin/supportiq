@@ -10,3 +10,4 @@ numpy
 pytest
 httpx
 psycopg[binary]
+joblib
