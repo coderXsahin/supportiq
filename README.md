@@ -51,17 +51,17 @@ The current model achieved approximately 85% test accuracy.
 ## Ticket Automation
 When a ticket is created:
 New Ticket
-    ?
+    â†“
 Duplicate Detection
-    ?
+    â†“
 ML Category Prediction
-    ?
+    â†“
 Priority Prediction
-    ?
+    â†“
 SLA Calculation
-    ?
+    â†“
 Resolution Suggestion
-    ?
+    â†“
 PostgreSQL
 ## Duplicate Detection
 Duplicate detection combines:
@@ -113,21 +113,22 @@ Current result:
 8 passed
 ## Project Structure
 backend/
-¦
+|
 +-- app/
-¦   +-- api/
-¦   +-- database/
-¦   +-- ml/
-¦   +-- models/
-¦   +-- schemas/
-¦   +-- services/
-¦
+|   +-- api/
+|   +-- database/
+|   +-- ml/
+|   +-- models/
+|   +-- schemas/
+|   +-- services/
+|
 +-- frontend/
 +-- tests/
 +-- Dockerfile
 +-- docker-compose.yml
 +-- requirements.txt
 +-- README.md
+
 ## Key Engineering Concepts
 - REST APIs
 - Machine Learning
